@@ -1,0 +1,44 @@
+C:\Users\Tini Todesco\source\repos\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\bin\Debug\CRUD_MVC_Talita_Todesco.exe.config
+C:\Users\Tini Todesco\source\repos\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\bin\Debug\CRUD_MVC_Talita_Todesco.exe
+C:\Users\Tini Todesco\source\repos\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\bin\Debug\CRUD_MVC_Talita_Todesco.pdb
+C:\Users\Tini Todesco\source\repos\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\obj\Debug\CRUD_MVC_Talita_Todesco.csproj.AssemblyReference.cache
+C:\Users\Tini Todesco\source\repos\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\obj\Debug\CRUD_MVC_Talita_Todesco.Login.resources
+C:\Users\Tini Todesco\source\repos\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\obj\Debug\CRUD_MVC_Talita_Todesco.Properties.Resources.resources
+C:\Users\Tini Todesco\source\repos\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\obj\Debug\CRUD_MVC_Talita_Todesco.csproj.GenerateResource.cache
+C:\Users\Tini Todesco\source\repos\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\obj\Debug\CRUD_MVC_Talita_Todesco.csproj.CoreCompileInputs.cache
+C:\Users\Tini Todesco\source\repos\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\obj\Debug\CRUD_MVC_Talita_Todesco.exe
+C:\Users\Tini Todesco\source\repos\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\obj\Debug\CRUD_MVC_Talita_Todesco.pdb
+D:\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\obj\Debug\CRUD_MVC_Talita_Todesco.csproj.AssemblyReference.cache
+D:\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\obj\Debug\CRUD_MVC_Talita_Todesco.Login.resources
+D:\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\obj\Debug\CRUD_MVC_Talita_Todesco.Properties.Resources.resources
+D:\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\obj\Debug\CRUD_MVC_Talita_Todesco.csproj.GenerateResource.cache
+D:\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\obj\Debug\CRUD_MVC_Talita_Todesco.csproj.CoreCompileInputs.cache
+D:\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\obj\Debug\CRUD_MVC_Talita_Todesco.exe
+D:\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\obj\Debug\CRUD_MVC_Talita_Todesco.pdb
+D:\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\bin\Debug\CRUD_MVC_Talita_Todesco.exe.config
+D:\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\bin\Debug\CRUD_MVC_Talita_Todesco.exe
+D:\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\bin\Debug\CRUD_MVC_Talita_Todesco.pdb
+D:\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\bin\Debug\BouncyCastle.Crypto.dll
+D:\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\bin\Debug\Google.Protobuf.dll
+D:\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\bin\Debug\K4os.Compression.LZ4.dll
+D:\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\bin\Debug\K4os.Hash.xxHash.dll
+D:\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\bin\Debug\MySql.Data.dll
+D:\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\bin\Debug\MySQLConnection.dll
+D:\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\bin\Debug\System.Buffers.dll
+D:\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\bin\Debug\System.Memory.dll
+D:\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\bin\Debug\System.Numerics.Vectors.dll
+D:\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\bin\Debug\ZstdNet.dll
+D:\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\bin\Debug\BouncyCastle.Crypto.xml
+D:\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\bin\Debug\Google.Protobuf.pdb
+D:\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\bin\Debug\Google.Protobuf.xml
+D:\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\bin\Debug\K4os.Compression.LZ4.xml
+D:\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\bin\Debug\K4os.Hash.xxHash.xml
+D:\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\bin\Debug\MySql.Data.xml
+D:\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\bin\Debug\System.Buffers.xml
+D:\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\bin\Debug\System.Memory.xml
+D:\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\bin\Debug\System.Numerics.Vectors.xml
+D:\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CRUD_MVC_Talita_Todesco\CRUD_MVC_Talita_Todesco\obj\Debug\CRUD_MVC_Talita_Todesco.csproj.CopyComplete
